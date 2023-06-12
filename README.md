@@ -8,7 +8,7 @@ Tenho experiência em programação utilizando Python e possuo conhecimentos bá
 
 ## Objetivos
 
-Tenho alguns objetivos pessoais que também me auxiliarão na inserção do mercado de trabalho: 
+Tenho alguns objetivos pessoais e dentre eles estão:  
 
 1. Aprender C/C++: Tenho interesse em expandir meu conjunto de habilidades de programação aprendendo C/C++. Desejo explorar a linguagem em profundidade e entender como ela é utilizada em diferentes áreas.
 
