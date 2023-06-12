@@ -4,7 +4,7 @@ Olá! Meu nome é Juliana, tenho 23 anos e atualmente meus interesses estão vol
 Utilizarei o github como forma de documentar meus processos e estudos, bem como ter contato com mais materiais de qualidade. 
 
 ## Experiência
-Tenho experiência em programação utilizando Python e possuo conhecimentos básicos em R. Atualmente estou cursando Programação orientada à objetos, fundamento de ciência de dados e introdução à estatística (entre outras) na USP São Carlos, disciplinas que estão me auxiliando muito na compreensão mais abrangente dos processos e me estimulando na construção de projetos para portfólio. Além disso, cursei alguns anos de fisica na UFSCar, o que contribuiu para construir uma boa base em abstrações matemáticas obtidas em disciplinas como cálculo I, II e III, fisicas básicas, álgebra linear, entre outras...
+Tenho experiência em programação utilizando Python e possuo conhecimentos básicos em R. Atualmente estou matriculada no curso de Física Computacional na USP São Carlos, cursando as disciplinas de Programação orientada à objetos, fundamentos de ciência de dados, introdução à estatística, entre outras. Vejo que essas disciplinas que estão me auxiliando muito na compreensão mais abrangente dos processos e me estimulando na construção de projetos para portfólio. Além disso, cursei alguns anos de Bacharelado em Fisica na UFSCar, o que contribuiu para construir uma boa base em abstrações matemáticas obtidas em disciplinas como cálculo I, II e III, fisicas básicas, álgebra linear, entre outras...
 
 ## Objetivos
 
@@ -19,4 +19,5 @@ Tenho alguns objetivos pessoais que também me auxiliarão na inserção do merc
 4. Contribuir em projetos Open Source (mesmo que pequenas contribuições).  
 
 Até mais :) 
+
 Juliana
