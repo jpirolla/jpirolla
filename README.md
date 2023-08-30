@@ -18,6 +18,3 @@ Tenho alguns objetivos pessoais e dentre eles estão:
 
 4. Contribuir em projetos Open Source (mesmo que pequenas contribuições).  
 
-Até mais :) 
-
-Juliana
