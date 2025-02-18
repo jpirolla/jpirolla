@@ -7,7 +7,7 @@ Me chamo Juliana e estou cursando Bacharelado em Sistemas de Informação na USP
 Além disso, tive a oportunidade de desenvolver habilidades em análise de dados no projeto "Levantamento e Análise de Dados de Morbimortalidade em Membros da Comunidade USP" (saiba mais [aqui](https://www.linkedin.com/posts/juliana-pirolla_nessa-%C3%BAltima-semana-tive-a-oportunidade-de-activity-7251036532520738816-ka08?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnqAP0BtVg850mqgizPmKojdaffveSU6Do) e [aqui](https://prip.usp.br/questionario-prip/)). Nesse projeto, trabalhei em colaboração com a equipe de pesquisa, sendo responsável pela exploração de dados quantitativos, coleta e tratamento das informações. Para análise e visualização dos dados, utilizei ferramentas como Python e R, além de Looker Studio para a criação de dashboards para apresentar resultados de maneira clara e acessível.
 
 
-### Me encontre no LinkedIn
+### Me encontre no Linkedin
 
 [![Me encontre no LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/juliana-pirolla/)
 
